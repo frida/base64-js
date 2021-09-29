@@ -25,6 +25,7 @@
     "/index.js",
     "/index.d.ts"
   ],
+  "type": "module",
   "repository": {
     "type": "git",
     "url": "https://github.com/frida/base64-js.git"
