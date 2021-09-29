@@ -1,5 +1,3 @@
-'use strict'
-
 exports.byteLength = byteLength
 exports.toByteArray = toByteArray
 exports.fromByteArray = fromByteArray
